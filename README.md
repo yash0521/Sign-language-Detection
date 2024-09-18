@@ -1,8 +1,3 @@
-# Sign-language-Detection
+# Sign-Language-Detection
 
-Control presentation slides by using hand movements, like changing slide forward and backward, zoom in and out,
-rotate etc.
-•Designed gestures by capturing actions and applying time series machine learning algorithms for accurate recognition.
-•Utilized OpenCV for real-time video capture and image processing to ensure smooth and responsive control.
-•Integrated machine learning models for hand detection and gesture recognition. Employed Python for backend logic
-and overall implementation.
+Sign language is a crucial means of communication for individuals with hearing impairments. However, interpreting sign language can be challenging for those unfamiliar with its intricacies. In recent years, the advancement of deep learning techniques has shown promise in developing automated systems for sign language recognition. This project proposes a novel approach that combines Long Short-Term Memory (LSTM) and Mediapipe to detect and interpret sign language gestures in real-time.
